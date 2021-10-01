@@ -23,9 +23,6 @@ are the combined BERT embeddings created from the concatenated daily headlines
 exp1_cont_targets.csv
 are the daily difference values for the VIX which correspond to exp1_bert_embeddings.npy
 
-exp1_glove_embedding_matrix.npy
-is the GloVe embedding matrix which corresponds to the train set of headlines
-
 exp1_train_ind.npy
 is the train index of the headlines
 

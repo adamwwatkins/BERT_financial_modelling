@@ -3,9 +3,12 @@ Using BERT to Predict Financial Volatility
 
 Adam Watkins' Thesis Sep 29 2021 
 
-ReadMe
+This thesis is comprised of 2 experiments:
 
-The data folder includes a few notebooks and prepared data files.
+The first compares the performance of concatenated relevant financial news headlines to predict daily changes in the VIX open and close price. Headlines are turned into GloVe and BERT embeddings to see which performs better in an ANN.
+
+The second compares two models, one with traditional technical and fundamendental indicators, and another with the addition of two versions of BERT sentiment indices. The goal is to see if BERT sentiment indices improve predictive power of the model.
+
 
 The headlines on which all of the following data is based can be found as:
 headlines.csv

@@ -1,7 +1,8 @@
-# BERT_financial_volatility
-Using BERT to Predict Financial Volatility
+#Using BERT to Predict Financial Volatility
 
-Adam Watkins' Thesis Sep 29 2021 
+Adam Watkins' Thesis
+Sep 29 2021
+HU Berlin
 
 This thesis is comprised of 2 experiments:
 
